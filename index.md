@@ -10,5 +10,5 @@ Even though the output was a simple “hello world” phrase, it had an impact o
 Lab 4 :
 This lab was another enjoyable lab for me since it dealt with a lot of conversions between units. This lab is useful to me because, as a biology major, my focus deals with a lot of conversions between milliliters, microliters, liters, etc. Having a tool like this that would complete conversions for me would save me a lot of time during computation and problem sets assigned for homework. 
 Lab 8:
-Though the other labs had some element of learning involved, this lab was one of my favorites because it had no relation to my academics and school. Instead, this lab taught me how the Olympic scoring system works and how the judges manage to make the scores fair. After watching the Olympics for years, it never occurred to me that the system for scoring would be this intricate. 
+Though the other labs had some element of learning involved, this lab was one of my favorites because it had no relation to my academics and school. Instead, this lab taught me how the Olympic scoring system works and how the judges manage to make the scores fair. After watching the Olympics for years, it never occurred to me that the system for scoring would be this intricate.
 
