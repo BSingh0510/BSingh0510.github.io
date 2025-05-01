@@ -12,4 +12,3 @@ This lab was another enjoyable lab for me since it dealt with a lot of conversio
 Lab 8:
 Though the other labs had some element of learning involved, this lab was one of my favorites because it had no relation to my academics and school. Instead, this lab taught me how the Olympic scoring system works and how the judges manage to make the scores fair. After watching the Olympics for years, it never occurred to me that the system for scoring would be this intricate. 
 
-
